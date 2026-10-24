@@ -1,4 +1,4 @@
-# 📡 Antenna Trilateration System
+# Antenna Trilateration System
 
 A distributed positioning system designed to estimate the location of a device using **trilateration and multiple independent antennas**, each hosted on its own server.
 
